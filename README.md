@@ -1,4 +1,9 @@
-rtl_433
+rtl_433 - Device ID Mode
+=======
+
+This is a version of rtl_433 that adds the device ID to all data output. This information can be helpful in determining the output format of the json ouput string. This is primarily in place for use with slurp-rtl433.
+
+rtl_433 
 =======
 
 rtl_433 turns your Realtek RTL2832 based DVB dongle into a 433.92MHz generic data receiver
